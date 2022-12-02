@@ -1,4 +1,4 @@
-$('#clock').fitText(0.7);
+$('#clock').fitText(0.6);
 $('#date').fitText(0.9);
 
 function update() {
