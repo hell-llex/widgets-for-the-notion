@@ -52,7 +52,7 @@ body {
 
 @media (max-width: 1024px) {
   html {
-    font-size: 9px;
+    font-size: 7px;
   }
 
   body {
@@ -63,14 +63,14 @@ body {
   .clock {
     height: 25rem;
     width: 90vw;
-    line-height: 13rem;
+    line-height: 10rem;
   }
 
   .clock {
-    font-size: 15rem;
+    font-size: 12rem;
   }
 
   .date {
-    font-size: 10rem;
+    font-size: 8rem;
   }
 }
